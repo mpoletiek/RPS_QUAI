@@ -3,7 +3,6 @@
  */
 
 require('@nomicfoundation/hardhat-toolbox')
-require('@quai/quais-upgrades');
 require("@quai/hardhat-deploy-metadata");
 
 const dotenv = require('dotenv')
